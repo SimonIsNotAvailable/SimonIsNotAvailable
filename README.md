@@ -43,7 +43,7 @@
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/git.svg" title="Git" alt="Git " width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/github.png"  title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/gradle.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
-  <img src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" title="Gradle"  alt="Gradle" width="40" height="40"/>&nbsp;
+  <img src="https://maven.apache.org/images/maven-logo-white-on-black.purevec.svg" title="maven"  alt="Maven" height="40"/>&nbsp;
   <img src="https://github.com/mcmouse88/mcmouse88/blob/main/logo/junit4.png" title="JUnit"  alt="JUnit" width="40" height="40"/>&nbsp;
   </div>
 
