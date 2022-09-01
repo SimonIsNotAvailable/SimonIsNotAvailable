@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </div>
   <img src="https://komarev.com/ghpvc/?username=SimonIsNotAvailable&style=flat-square&color=blue" alt=""/>
- <h1> Hi there 👋 </h1>
+ <h2> Hi there 👋 </h2>
 </div>
 
 
