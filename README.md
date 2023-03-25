@@ -15,8 +15,7 @@
 
 ### &nbsp;Личная информация:
 
-* &nbsp;ФИО: Simon Polushkin
-* &nbsp;Дата рождения: Март, 1993
+* &nbsp; Simon Polushkin
 
 
 ### &nbsp;Образование:
